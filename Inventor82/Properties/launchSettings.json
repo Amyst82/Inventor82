@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Inventor82": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "D:\\Programs\\Inventor\\Inventor 2025\\Bin\\Inventor.exe",
+      "nativeDebugging": true
+    }
+  }
+}

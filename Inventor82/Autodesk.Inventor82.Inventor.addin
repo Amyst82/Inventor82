@@ -1,0 +1,15 @@
+<Addin Type="Standard">
+	<!--Created for Autodesk Inventor Version 26.0 and above (tested on 29)-->
+	<ClassId>{4b25f873-a1fb-423b-92f0-96a4df264b55}</ClassId>
+	<ClientId>{4b25f873-a1fb-423b-92f0-96a4df264b55}</ClientId>
+	<DisplayName>Inventor82</DisplayName>
+	<Description>An add-in for Autodesk Inventor that lets you export ipt directly to STL.</Description>
+	<Author>Amyst</Author>
+	<Assembly>Inventor82.dll</Assembly>
+	<LoadOnStartUp>1</LoadOnStartUp>
+	<UserUnloadable>1</UserUnloadable>
+	<Hidden>0</Hidden>
+	<SupportedSoftwareVersionGreaterThan>26..</SupportedSoftwareVersionGreaterThan>
+	<DataVersion>1</DataVersion>
+	<UserInterfaceVersion>1</UserInterfaceVersion>
+</Addin>
