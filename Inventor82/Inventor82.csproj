@@ -111,5 +111,10 @@
     <TargetFramework>net8.0-windows</TargetFramework>
     <PlatformTarget>x64</PlatformTarget>
     <UseWindowsForms>true</UseWindowsForms>
+    <Title>Autodesk Inventor add-in to export STLs</Title>
+    <Company>Amyst82</Company>
+    <PackageProjectUrl>https://github.com/Amyst82/Inventor82</PackageProjectUrl>
+    <Description>An Autodesk Inventor add-in that allows to export ipt's and iam's directly into STL</Description>
+    <RepositoryUrl>https://github.com/Amyst82/Inventor82</RepositoryUrl>
 </PropertyGroup>
 </Project>

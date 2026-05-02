@@ -5,7 +5,7 @@
 	<DisplayName>Inventor82</DisplayName>
 	<Description>An add-in for Autodesk Inventor that lets you export ipt directly to STL.</Description>
 	<Author>Amyst</Author>
-	<Assembly>Inventor82.dll</Assembly>
+	<Assembly>Inventor82\Inventor82.dll</Assembly>
 	<LoadOnStartUp>1</LoadOnStartUp>
 	<UserUnloadable>1</UserUnloadable>
 	<Hidden>0</Hidden>
